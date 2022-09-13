@@ -9,3 +9,5 @@ resource "azurerm_resource_group" "Rg1" {
 #  name     = "example"
 #  location = "West Europe"
 #}
+
+#Babul
